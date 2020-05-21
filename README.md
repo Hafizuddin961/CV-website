@@ -3,4 +3,7 @@ This is my CV-website that I make from scratch using HTML, CSS and Javascript wi
 The source Code was not clean a lot of bug since this is my first code writing for website. <br/>
 I am trying to improve my code in next project.<br/>
 Feel free to see my CV website here https://cv-hafizuddin961.web.app/ <br/>
-Thank you
+Thank you<br/>
+
+**Reference**:
+https://www.youtube.com/watch?v=qCFN8EujbGI&t=838s
